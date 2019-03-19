@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://7cthunder.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -82,4 +82,10 @@ deploy:
   repository: git@github.com:7cthunder/7cthunder.github.io.git
   branch: master
 
-avatar: ./source/assets/avatar.jpg
+# avatar: https://github.com/7cthunder/Blog/blob/master/source/assets/avatar.jpg
+
+social:
+  github: https://github.com/7cthunder
+
+location: Guangzhou
+email: 32539531@qq.com
