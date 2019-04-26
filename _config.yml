@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: replica
+theme: Cxo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -82,7 +82,7 @@ deploy:
   repository: git@github.com:7cthunder/7cthunder.github.io.git
   branch: master
 
-# avatar: https://github.com/7cthunder/Blog/blob/master/source/assets/avatar.jpg
+avatar: https://github.com/7cthunder/Blog/raw/master/source/assets/avatar.jpg
 
 social:
   github: https://github.com/7cthunder
